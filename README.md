@@ -1,0 +1,2 @@
+# djangoCoursework
+Group assignment
